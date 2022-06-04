@@ -24,6 +24,8 @@ Dsepués solo abrí el VS Code instale la extensión de Python.
 
 - Y por último un programa de condicionales if.
 
+Esos archivos puedes encontrarlos en este mismo repositorios
+
 ### Creando repositorios en GitHub
 
 Este proceso es el que estaré haciendo ahora mismo, ya que debo subir este archivo a un repositorio de GitHub.
