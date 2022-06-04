@@ -8,7 +8,7 @@ Primero instale Python, para ello solo me drigí a la tienda de Microsoft y busq
 
 ![](https://github.com/Mario-CamachoCC/Practica-4/blob/main/img/1.png)
 
-Lo hize desde la tienda por que es le método más fácil, pero después tuve que instalar "Git", para ello me fuí a su pagina de descargas y descarge la versión para Windows 64 bits [[Aquí](https://git-scm.com/download/win)].
+Lo hize desde la tienda por que es el método más fácil, pero después tuve que instalar "Git", para ello me fuí a su pagina de descargas y descarge la versión para Windows 64 bits [[Aquí](https://git-scm.com/download/win)].
 
 ![](https://github.com/Mario-CamachoCC/Practica-4/blob/main/img/2.png)
 
