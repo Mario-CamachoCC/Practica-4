@@ -62,8 +62,6 @@ Después en el terminal puse "git add .", para añadir los archivos, el "." es p
 
 Después puse el comando "git commit -m "first commit"", que realmente no se para que sea
 
-![](img\10.png)
-
 La linea que sigue, y la que sigue y la que sigue, finalmente cuándo acabe en github se cargarón los archivos
 
-![](img\11.png)
+![](img\10.png)
